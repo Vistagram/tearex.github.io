@@ -151,6 +151,17 @@ a {
 	margin-top: 1vh;
 }
 
+video {
+	margin-top: 1vh;
+	width: 100vw;
+}
+
+iframe {
+	margin-top: 1vh;
+	width: 100vw;
+	height: 33vh;
+}
+
 .action-buttons {
 	display: flex;
   justify-content: flex-start;
@@ -263,6 +274,19 @@ _________________________________*/
 		margin-top: 1vh;
 	}
 
+	video {
+		padding-top: 1vh;
+		width: 50vw;
+		margin: auto;
+	}
+
+	iframe {
+		padding-top: 1vh;
+		width: 50vw;
+		height: 22vh;
+		margin: auto;
+	}
+
 	.action-buttons {
 		height: 4vh;
 		width: 47.5vw;
@@ -338,6 +362,17 @@ _________________________________*/
 	.img-box .img {
 		width: 33vw;
 		margin-top: 2vh;
+	}
+
+	video {
+		padding-top: 2vh;
+		width: 33vw;
+	}
+
+	iframe {
+		padding-top: 2vh;
+		height: 40vh;
+		width: 33vw;
 	}
 
 	.action-buttons {
